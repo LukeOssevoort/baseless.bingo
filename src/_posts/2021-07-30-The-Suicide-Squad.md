@@ -24,6 +24,7 @@ squares:
     - Pete Davidson Dies
     - Peacemaker's HBO Series is a Prequel
     - Bloodsport Shoots Superman's Corpse
+    - Starro is not the main villain
     - \"Isn't that Katana's Katana?\" -Rick Flag
     - Movie opens with a Suicide Squad all dying
     - \"Ah YA DC shit who gives a fuck\" -Joel Duscher
