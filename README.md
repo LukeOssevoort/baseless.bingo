@@ -20,7 +20,7 @@ squares:
 ---
 Description of movie (can just be taken from IMDB).
 ```
-A full sheet requires 24 squares and 1 free square.
+A full sheet requires 24 squares and 1 free square. For more details [see the wiki](https://github.com/LukeOssevoort/baseless.bingo/wiki/Formatting-Bingo-Sheets).
 
 ## Support
 If you would like to support this project both this repo and the website support Brave rewards tipping. So, if you are using the Brave browser (which you should be) you can send a BAT tip.
