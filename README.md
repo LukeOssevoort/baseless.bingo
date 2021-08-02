@@ -1,4 +1,6 @@
 # baseless.bingo
+![Build](https://github.com/LukeOssevoort/baseless.bingo/actions/workflows/jekyll.yml/badge.svg)
+
 All of the bingo, none of the research. Baseless bingo is a bingo sheet randomiser for the podcast Baseless Speculation built with Jekyll and Pure CSS for minimal web bloat.
 
 
