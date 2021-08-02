@@ -15,4 +15,4 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         jekyll_src: /src/
-        jekyll_build_options: -b baseless.bingo
+        jekyll_build_options: -b /baseless.bingo
