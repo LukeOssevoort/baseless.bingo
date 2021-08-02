@@ -1,6 +1,6 @@
 <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
-        <a class="pure-menu-heading" href="/index.html">Baseless Bingo</a>
+        <a class="pure-menu-heading" href="{{ site.baseurl }}/">Baseless Bingo</a>
 
         <ul class="pure-menu-list">
             {% for item in site.data.navigation %} {% if page.url == item.link %}
@@ -8,7 +8,7 @@
                 {% endif %} {% if page.url != item.link %}
                 <li class="pure-menu-item">
                     {% endif %}
-                    <a href="{{ item.link }}" class="pure-menu-link">{{ item.name }}</a>
+                    <a href="{{ site.baseurl }}{{ item.link }}" class="pure-menu-link">{{ item.name }}</a>
                 </li>
                 {% endfor %}
         </ul>
