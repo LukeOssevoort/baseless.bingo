@@ -1,7 +1,7 @@
 ---
 title: "The Suicide Squad"
 layout: bingo
-eplink:
+eplink: https://play.acast.com/s/baseless-speculation/thesuicidesquad
 freesq: Bizarro
 squares:
     - \"You Shut the Fuck Up You Clown Lady\" -Peacemaker
